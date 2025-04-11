@@ -40,6 +40,8 @@ Este projeto é a solução para o desafio técnico da empresa Evológica. A pro
 ```bash
 cd cadastro
 ./mvnw spring-boot:run
+```
+
 Acesse o Swagger: http://localhost:8080/swagger-ui.html
 
 H2 Console: http://localhost:8080/h2-console
@@ -47,7 +49,6 @@ H2 Console: http://localhost:8080/h2-console
 JDBC URL: jdbc:h2:mem:testdb
 
 Usuário: sa, senha: (em branco)
-```
 
 ### 2. Rodar o frontend
 
